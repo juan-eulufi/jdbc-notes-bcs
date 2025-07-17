@@ -1,4 +1,4 @@
-# Inserta data a una tabla con java
+# Inserta data a una tabla con java (PreparedStatement)
 
 ```java
 import java.sql.Connection;
