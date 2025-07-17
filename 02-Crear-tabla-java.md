@@ -1,4 +1,4 @@
-# Crear tabla con java
+# Crear tabla con java (Statement)
 
 ```java
 import java.sql.Connection;
